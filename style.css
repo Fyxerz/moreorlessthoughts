@@ -60,7 +60,7 @@
 	margin: 2.5vh 0 2.5vh -15%;
 	padding: 5vh 0;
 	background: white;
-	overflow: scroll;
+	overflow-y: scroll;
 }
 
 .article_title {
@@ -68,14 +68,14 @@
 	color: #545353;
 	font-family: 'Lora';
 	font-weight: lighter;
-	font-size: 52px;
+	font-size: 3.5vw;
 	letter-spacing: 1px;
 	line-height: 1.5;
 }
 
 .excerpt {
 	width: 80%;
-	margin: 10vh 0;
+	margin: 5vh 0;
 	line-height: 2;
 	font-weight: 100;
 }
@@ -92,7 +92,7 @@
 
 .article_link {
 	margin: auto auto;
-	padding: 3%;
+	padding: 1vh 1.5vw;
 	color: white;
 	border: 3px solid white;
 	text-decoration: none;
